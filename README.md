@@ -7,5 +7,8 @@ Cada disciplina do curso é organizada em uma pasta própria, contendo notebooks
 
 #### Ferramentas utilizadas até o momento:
 - Excel
+- Git
 - Orange v3.40.0
+- PyCharm 2026.1.1
+- Python 3.11
 - WEKA v3.8.7
